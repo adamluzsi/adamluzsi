@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -eE 
+
+cd "${WDP}"
+./scripts/md2pdf ./CV.md ./docs/adamluzsi-cv.pdf
