@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+set -eE -o pipefail
+
+(
+	type pandoc
+	type basename
+) 1>/dev/null
+
+declare mdpath out
+
+mdpath=${1:?"missing path to markdown file"}
+[[ -f ${mdpath} ]]
+
+out=${2:-"${WDP:-"."}/out/$(basename "${mdpath}" ".md")${2:-""}.pdf"}
+if [[ ! ${out} =~ \.pdf$ ]]; then
+	out="${out}.pdf"
+fi
+
+echo "input: ${mdpath}"
+echo "output: ${out}"
+pandoc --from=gfm --to=pdf -o "${out}" "${mdpath}"
