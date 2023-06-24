@@ -3,6 +3,7 @@
 - +41766118318
 - adamluzsi@gmail.com
 - [GitHub](https://github.com/adamluzsi/)
+- [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
 
 Hello! I'm Adam Luzsi, an IT professional with a keen interest in sustainable software development. My skills encompass
 several programming languages, notably Go, Ruby, JavaScript, and C#. I've applied these competencies across various
@@ -41,41 +42,41 @@ more detailed information if you're interested.
 
 ## Expertise
 
-In software development, I've had the privilege of working with a wide range of programming languages, such as Ruby,
-Golang, C, Java, C#, JavaScript, and PHP. These experiences have allowed me to navigate diverse environments, from
-backend to client-side, web development, and microservices, utilising various frameworks.
+In software development, I've had the privilege of working with a wide range of **programming languages**, such as **Ruby**,
+**Golang**, **C**, **Java**, **C#**, **JavaScript**, and **PHP**. These experiences have allowed me to navigate diverse environments, from
+**backend** to **client-side**, **web development**, and **microservices**, utilising various **frameworks**.
 
 When designing software, I meet human needs and strive for simplicity amidst complexity. I am well-versed in applying
-principles like the 12-factor methodology, SOLID principles, Hexagonal architecture, and Clean Architecture to empower
+**principles** like the **12-factor methodology**, **SOLID principles**, **Hexagonal architecture**, and **Clean Architecture** to empower
 developers and enhance maintainability while considering human cognitive constraints.
 
-Automated testing is a must for me. I firmly believe in practices like Test-Driven Development (TDD). When I lacked the
+**Automated testing** is a must for me. I firmly believe in practices like **Test-Driven Development (TDD)**. When I lacked the
 required tooling to achieve high-quality, modular, and easily maintainable automated tests, I invented it myself.
 Whether working on professional projects or pursuing my ones, I always apply this level of thorough testing.
 
-Being part of the open-source community, I cherish the idea of mutual learning and collaboration. It's an environment
+Being part of the **open-source community**, I cherish the idea of mutual learning and collaboration. It's an environment
 where I learn, contribute, and actively support others, especially in testing, by sharing my knowledge and experiences.
 
-In terms of data management, I have successfully handled an array of databases, including PostgreSQL, MySQL, BoltDB,
-Redshift, GreenPlum, Google BigQuery, Redis, and Kafka, and I have expertise in designing efficient ETL data pipelines.
+In terms of **data management**, I have successfully handled an array of **databases**, including **PostgreSQL**, **MySQL**, **BoltDB**,
+**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**, and I have expertise in designing efficient **ETL data pipelines**.
 
-My experience extends to API design, where I have worked with different stacks like RESTful, GraphQL, gRPC, and WSDL +
-XML APIs.
+My experience extends to **API design**, where I have worked with different stacks like **RESTful**, **GraphQL**, **gRPC**, and **WSDL +
+XML APIs**.
 
-As part of my ongoing learning journey, I have actively mentored and guided junior and mid-level engineers, particularly
+As part of my ongoing learning journey, I have actively **mentored** and guided junior and mid-level engineers, particularly
 within the open-source community. Sharing knowledge and supporting others has been a rewarding aspect of my career.
 
-DevOps has been a crucial part of my professional journey, involving implementing, managing, and scaling applications.
+**DevOps** has been a crucial part of my professional journey, involving implementing, managing, and scaling applications.
 Through this experience, I have recognised the value of cross-functional workflows between teams. I have utilised tools
-such as OpsGenie, PagerDuty, and Pingdom for on-call duties to ensure prompt response and resolution.
+such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensure prompt response and resolution.
 
-My understanding of agile methodologies has been enriched by active involvement in practices such as Scrum, XP, and
-Agile Development. Embracing these methodologies has enabled me to deliver high-quality software solutions
+My understanding of **agile methodologies** has been enriched by active involvement in practices such as **Scrum**, **XP**, and
+**Agile Development**. Embracing these methodologies has enabled me to deliver high-quality software solutions
 collaboratively.
 
-Security is an aspect of IT that I deeply respect, and I have proactively sought to enhance my application designs
-through a foundational understanding of ethical hacking. My knowledge in this area stems from online courses and
-mentorship from a Security Expert when I worked at Emarsys Technologies.
+**Security** is an aspect of IT that I deeply respect, and I have proactively sought to enhance my application designs
+through a foundational understanding of **ethical hacking**. My knowledge in this area stems from online courses and
+mentorship from a **Security Expert** when I worked at **Emarsys Technologies**.
 
 ### Domain knowledge
 
