@@ -16,10 +16,10 @@ more detailed information if you're interested.
 
 ## My current open-source software projects:
 
-- frameless | anti-framework for system flexibility and maintainability
-- rack-app | a minimalist ruby web framework
-- testcase | test-driven designing a toolkit for Go to support classicist TDD testing
-- toggler | a self-hosted feature flag and a release management service.
+- [frameless | anti-framework for system flexibility and maintainability](https://github.com/adamluzsi/frameless)
+- [rack-app | a minimalist ruby web framework](https://github.com/rack-app/rack-app)
+- [testcase | test-driven designing a toolkit for Go to support classicist TDD testing](https://github.com/adamluzsi/testcase)
+- [toggler | a self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
 
 ## Reference links:
 
