@@ -130,7 +130,6 @@ utilising this experience to create effective software solutions across various 
 ## Portfolio
 
 This list contains a few projects from my experience:
-Sure, here is the same information styled with headings and paragraphs instead of a table:
 
 ### Open-Source Software - Testcase
 
