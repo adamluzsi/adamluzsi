@@ -172,6 +172,19 @@ service, a vital component for the company. As a result, the service's performan
 approximately 800% faster. This optimization not only made it much quicker but made room for new features building on
 top of it.
 
+### Emarsys - Escher Auth
+
+I maintained Ruby and Golang client libraries, focusing on expanding test coverage and reducing dependencies. I
+successfully resolved multiple bugs that were impacting the company's productivity. As a result, the integration time
+for Ruby and Golang projects significantly decreased from a week to just mere minutes.
+
+### Emarsys - Smart Insight
+
+As the developer of Smart Insight, I contributed to build and maintain the data-driven solution that transforms raw data into actionable insights.
+Smart Insight uses advanced algorithms to segment customer data based on predicted behaviors, enabling targeted marketing strategies.
+It also provides real-time analysis and data visualizations for each customer segment, offering a powerful tool for customer engagement and business growth.
+The technology stack predominantly comprised Ruby as the high-level language, Rails for the web application, and GreenPlum, a distributed big data database engine for storage.
+
 ### People Process Technology - Foton Engine
 
 As the Lead developer, I designed and implemented a versatile solution using a workflow engine, prioritizing
@@ -194,11 +207,16 @@ practicality and effectiveness of the virtual currency mechanism
 , significantly streamlining the process of requesting and managing benefits. This not only improved operational
 efficiency but also enhanced the experience for the government employees.
 
-### Emarsys - Escher Auth
+### People Process Technology - Project Healthcare Tourism
 
-I maintained Ruby and Golang client libraries, focusing on expanding test coverage and reducing dependencies. I
-successfully resolved multiple bugs that were impacting the company's productivity. As a result, the integration time
-for Ruby and Golang projects significantly decreased from a week to just mere minutes.
+I spearheaded the development of an advanced booking engine, a pivotal solution for scheduling appointments related to healthcare products. 
+Our team was committed to implementing stringent security measures in line with industry standards. 
+Thus, we stored all patient related data in the GT.M database in an encrypted format,
+mirroring the practices of leading healthcare companies in the United States. 
+
+For the implementation of the necessary queries, we utilized the M language, renowned for its efficacy in managing multi-dimensional databases. 
+The booking system's design was realized through the Ruby high-level language, 
+celebrated for its versatility and readability, which ensured our solution was robust and maintainable.
 
 ### Cembra Money Bank - ZEK Integration
 
