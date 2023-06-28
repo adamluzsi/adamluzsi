@@ -2,8 +2,9 @@
 
 - Phone: +41766118318
 - Email: adamluzsi@gmail.com
-- GitHub: [adamluzsi](https://github.com/adamluzsi/)
-- LinkedIn: [Adam Luzsi](https://www.linkedin.com/in/adam-luzsi-6233068b/)
+- [GitHub](https://github.com/adamluzsi/)
+- [RubyGems](https://rubygems.org/profiles/adamluzsi)
+- [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
 - [Link to my CV / Portfolio](https://github.com/adamluzsi/adamluzsi/blob/main/CV.md)
 
 ## Professional Summary
@@ -17,6 +18,15 @@ Proficient in building and maintaining microservices, applying SOLID principles,
 methodology. Experienced in designing efficient ETL data pipelines, managing databases, and designing APIs. Active
 mentor in the open-source community, and adept at implementing agile methodologies and DevOps.
 
+## Personal Projects (OSS)
+
+* [**frameless**: Anti-framework for system flexibility and maintainability.](https://github.com/adamluzsi/frameless)
+* [**rack-app**: Minimalist ruby web framework.](https://github.com/rack-app/rack-app)
+* [**testcase**: Toolkit for Go to support classicist TDD testing.](https://github.com/rack-app/rack-app)
+* [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
+
+- [**My last public presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture**](https://www.youtube.com/watch?v=n9F2j1cAYcc)
+
 ## Key Skills
 
 * **Marketing Automation**: Experience with various automation tools and strategies
@@ -28,13 +38,6 @@ mentor in the open-source community, and adept at implementing agile methodologi
 * **DevOps**: On-Call practice, experience with tracing (for e.g. with: OpenTelemetry), collecting metrics, automation
 * **Applied Principles**: 12-factor methodology, SOLID principles, Hexagonal architecture, Clean Architecture
 * **Methodologies**: Scrum, XP, Agile Development
-
-## Open Source Projects
-
-* [**frameless**: Anti-framework for system flexibility and maintainability.](https://github.com/adamluzsi/frameless)
-* [**rack-app**: Minimalist ruby web framework.](https://github.com/rack-app/rack-app)
-* [**testcase**: Toolkit for Go to support classicist TDD testing.](https://github.com/rack-app/rack-app)
-* [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
 
 ## Professional Experience
 
@@ -89,12 +92,6 @@ mentor in the open-source community, and adept at implementing agile methodologi
 * **Client-Sided Software Developer** (OKJ nmb 54-481-02): Gained in-depth client-side programming knowledge.
 * **Apprenticeship & Mentorship**: Participated in an apprenticeship program followed by a mentorship, further
   solidifying my software development skills.
-
-## References
-
-* [GitHub](https://github.com/adamluzsi/)
-* [RubyGems](https://rubygems.org/profiles/adamluzsi)
-* [Latest Public Presentation](https://gopherconf.uk/)
 
 ## Languages
 
