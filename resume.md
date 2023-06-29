@@ -29,15 +29,17 @@ mentor in the open-source community, and adept at implementing agile methodologi
 
 ## Key Skills
 
-* **Marketing Automation**: Experience with various automation tools and strategies
-* **User Behaviour Tracking**: Detailed understanding of various user behaviour tracking methodologies for ad targeting
-  and user impression gathering.
-* **Programming**: Go (primary), Ruby, JavaScript, C#, C, Java, PHP
-* **APIs**: RESTful, GraphQL, gRPC, WSDL + XML APIs
-* **Data Management**: PostgreSQL, MySQL, BoltDB, Redshift, GreenPlum, Google BigQuery, Redis, Kafka
-* **DevOps**: On-Call practice, experience with tracing (for e.g. with: OpenTelemetry), collecting metrics, automation
-* **Applied Principles**: 12-factor methodology, SOLID principles, Hexagonal architecture, Clean Architecture
-* **Methodologies**: Scrum, XP, Agile Development
+* **Programming Proficiency**: Primary expertise in Go and Ruby, with proficiency also in JavaScript/TypeScript, C#, Java, and PHP.
+* **API Integration**: Experience with a variety of API styles including RESTful, GraphQL, gRPC, WSDL + XML, and some more.
+* **Data Management Expertise**: Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB, Redshift, GreenPlum, Google BigQuery, Redis, and Kafka.
+* **DevOps Experience**: Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and automation.
+* **Software Development Principles**: Knowledge and application of 12-factor methodology, SOLID principles, Hexagonal architecture, and Clean Architecture.
+* **Project Management Methodologies**: Proficient in XP, Kanban, Scrum and other Agile Development techniques.
+* **Payment Systems Optimization**: Contributed significantly to enhancing payment systems and reducing costs via intelligent payment routing.
+* **Registration System Development**: Involved in the development of the company's acquiring registration system, which involved tasks such as registering to acquiring hosts and preparing terminals for payments.
+* **Marketing Automation Knowledge**: Experienced in using various marketing automation tools and strategies.
+* **Data Warehouse Management**: Experienced in designing, developing and maintaining a distributed database warehouse and its segmenting features.
+* **User Behaviour Tracking**: Possess a deep understanding of diverse user behavior tracking methods for efficient ad targeting and user impression collection.
 
 ## Professional Experience
 
