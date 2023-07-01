@@ -5,7 +5,7 @@
 - [GitHub](https://github.com/adamluzsi/)
 - [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
 
-Hello! I'm Adam Luzsi, an IT professional with a keen interest in sustainable software development. My skills encompass
+Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development. My skills encompass
 several programming languages, notably Go, Ruby, JavaScript, and C#. I've applied these competencies across various
 industries such as finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
 solutions to complex problems. An essential part of my career is being a dedicated open-source contributor and a
@@ -42,8 +42,8 @@ more detailed information if you're interested.
 
 ## Expertise
 
-In software development, I've had the privilege of working with a wide range of **programming languages**, such as *
-*Ruby**,
+In software development, I've had the privilege of working with a wide range of **programming languages**,
+such as **Ruby**,
 **Golang**, **C**, **Java**, **C#**, **JavaScript**, and **PHP**. These experiences have allowed me to navigate diverse
 environments, from
 **backend** to **client-side**, **web development**, and **microservices**, utilising various **frameworks**.
@@ -62,14 +62,13 @@ Being part of the **open-source community**, I cherish the idea of mutual learni
 environment
 where I learn, contribute, and actively support others, especially in testing, by sharing my knowledge and experiences.
 
-In terms of **data management**, I have successfully handled an array of **databases**, including **PostgreSQL**, *
-*MySQL**, **BoltDB**,
-**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**, and I have expertise in designing efficient
-**ETL data pipelines**.
+In terms of **data management**, I have successfully handled an array of **databases**,
+including **PostgreSQL**, **MySQL**, **BoltDB**,
+**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**, 
+and I have expertise in designing efficient **ETL data pipelines**.
 
-My experience extends to **API design**, where I have worked with different stacks like **RESTful**, **GraphQL**, **gRPC
-**, and **WSDL +
-XML APIs**.
+My experience extends to **API design**, where I have worked with different stacks like 
+**RESTful**, **GraphQL**, **gRPC**, and **SOAP**.
 
 As part of my ongoing learning journey, I have actively **mentored** and guided junior and mid-level engineers,
 particularly
@@ -80,10 +79,9 @@ applications.
 Through this experience, I have recognised the value of cross-functional workflows between teams. I have utilised tools
 such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensure prompt response and resolution.
 
-My understanding of **agile methodologies** has been enriched by active involvement in practices such as **Scrum**, **XP
-**, and
-**Agile Development**. Embracing these methodologies has enabled me to deliver high-quality software solutions
-collaboratively.
+My understanding of **agile methodologies** has been enriched 
+by active involvement in practices such as **Scrum**, **XP**, and **Agile Development**.
+Embracing these methodologies has enabled me to deliver high-quality software solutions collaboratively.
 
 **Security** is an aspect of IT that I deeply respect, and I have proactively sought to enhance my application designs
 through a foundational understanding of **ethical hacking**. My knowledge in this area stems from online courses and
@@ -179,10 +177,14 @@ for Ruby and Golang projects significantly decreased from a week to just mere mi
 
 ### Emarsys - Smart Insight
 
-As the developer of Smart Insight, I contributed to build and maintain the data-driven solution that transforms raw data into actionable insights.
-Smart Insight uses advanced algorithms to segment customer data based on predicted behaviors, enabling targeted marketing strategies.
-It also provides real-time analysis and data visualizations for each customer segment, offering a powerful tool for customer engagement and business growth.
-The technology stack predominantly comprised Ruby as the high-level language, Rails for the web application, and GreenPlum, a distributed big data database engine for storage.
+As the developer of Smart Insight, I contributed to build and maintain the data-driven solution that transforms raw data
+into actionable insights.
+Smart Insight uses advanced algorithms to segment customer data based on predicted behaviors, enabling targeted
+marketing strategies.
+It also provides real-time analysis and data visualizations for each customer segment, offering a powerful tool for
+customer engagement and business growth.
+The technology stack predominantly comprised Ruby as the high-level language, Rails for the web application, and
+GreenPlum, a distributed big data database engine for storage.
 
 ### People Process Technology - Foton Engine
 
@@ -208,13 +210,15 @@ efficiency but also enhanced the experience for the government employees.
 
 ### People Process Technology - Project Healthcare Tourism
 
-I spearheaded the development of an advanced booking engine, a pivotal solution for scheduling appointments related to healthcare products. 
-Our team was committed to implementing stringent security measures in line with industry standards. 
+I spearheaded the development of an advanced booking engine, a pivotal solution for scheduling appointments related to
+healthcare products.
+Our team was committed to implementing stringent security measures in line with industry standards.
 Thus, we stored all patient related data in the GT.M database in an encrypted format,
-mirroring the practices of leading healthcare companies in the United States. 
+mirroring the practices of leading healthcare companies in the United States.
 
-For the implementation of the necessary queries, we utilized the M language, renowned for its efficacy in managing multi-dimensional databases. 
-The booking system's design was realized through the Ruby high-level language, 
+For the implementation of the necessary queries, we utilized the M language, renowned for its efficacy in managing
+multi-dimensional databases.
+The booking system's design was realized through the Ruby high-level language,
 celebrated for its versatility and readability, which ensured our solution was robust and maintainable.
 
 ### Cembra Money Bank - ZEK Integration
