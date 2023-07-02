@@ -79,6 +79,11 @@ applications.
 Through this experience, I have recognised the value of cross-functional workflows between teams. I have utilised tools
 such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensure prompt response and resolution.
 
+Adding to my DevOps skills, I have extensive experience hosting applications on different platforms, 
+including **AWS Amazon Web Services**, **Google Cloud Platform**, **DigitalOcean**, and **on-premise** environments.
+My proficiency extends to tools like **Docker**, **Terraform**, and **Ansible**,
+bolstering my capabilities in orchestrating and automating deployment processes.
+
 My understanding of **agile methodologies** has been enriched 
 by active involvement in practices such as **Scrum**, **XP**, and **Agile Development**.
 Embracing these methodologies has enabled me to deliver high-quality software solutions collaboratively.
