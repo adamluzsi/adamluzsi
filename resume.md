@@ -35,7 +35,7 @@ mentor in the open-source community, and adept at implementing agile methodologi
 * **DevOps Experience**:.
   * Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and automation
   * experiment with hosting on AWS, GCP, DigitalOcean, Heroku and on-premise.
-  * advocate of re-creatable deployment processes, and their tooling such as Terraform, Ansible, Docker, Helm, Jenkins,  
+  * advocate of re-creatable deployment processes, and their tooling such as Terraform, Ansible, Docker, Helm, Jenkins, ArgoCD  
 * **Software Development Principles**: Knowledge and application of 12-factor methodology, SOLID principles, Hexagonal architecture, and Clean Architecture.
 * **Project Management Methodologies**: Proficient in XP, Kanban, Scrum and other Agile Development techniques.
 * **Payment Systems Optimization**: Contributed significantly to enhancing payment systems and reducing costs via intelligent payment routing.

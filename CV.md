@@ -81,7 +81,7 @@ such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensur
 
 Adding to my DevOps skills, I have extensive experience hosting applications on different platforms, 
 including **AWS Amazon Web Services**, **Google Cloud Platform**, **DigitalOcean**, and **on-premise** environments.
-My proficiency extends to tools like **Docker**, **Terraform**, and **Ansible**,
+My proficiency extends to tools like **ArgoCD**, **Docker**, **Terraform**, and **Ansible**,
 bolstering my capabilities in orchestrating and automating deployment processes.
 
 My understanding of **agile methodologies** has been enriched 
