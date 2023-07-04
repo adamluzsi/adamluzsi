@@ -45,7 +45,7 @@ but also
 
 * **Programming Proficiency**:
     * Primary expertise in Go (6+ years), Ruby (7+ years),
-    * gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
+    * gained experience with C#, JavaScript/TypeScript, and a bit with Java and PHP.
 * **API Integration**: Experience with a variety of API styles including RESTful, GraphQL, gRPC, SOAP, and some more.
 * **Data Management Expertise**: Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB,
   Redshift, GreenPlum, Google BigQuery, Redis, and Kafka.
@@ -65,8 +65,8 @@ but also
     * Passionate about knowledge sharing, contributing to learning materials, and guiding aspiring developers.
 * **Payment Systems Development**: Contributed significantly to enhancing payment systems and reducing costs via
   intelligent payment routing.
-* **Acquiring Registration System Development**: Involved in the development of the company's acquiring registration
-  system, which involved tasks such as registering to acquiring hosts and preparing terminals for payments.
+* **Acquiring Registration System Development**: Developing the company's acquiring registration
+  system involved tasks such as registering to acquiring-hosts and preparing payment terminals.
 * **Marketing Automation Knowledge**: Experienced in using various marketing automation tools and strategies.
 * **Data Warehouse Management**: Experienced in designing, developing and maintaining a distributed database warehouse
   and its segmenting features.
