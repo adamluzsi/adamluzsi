@@ -1,4 +1,6 @@
-# Adam Luzsi | Senior Software Engineer | Resume
+[:gopherconuk2022:]: https://www.youtube.com/watch?v=n9F2j1cAYcc
+
+# Adam Luzsi | Software Engineer | Resume
 
 - Phone: +41766118318
 - Email: adamluzsi@gmail.com
@@ -7,16 +9,25 @@
 - [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
 - [Link to my CV / Portfolio](https://github.com/adamluzsi/adamluzsi/blob/main/CV.md)
 
-## Professional Summary
+## Summary
 
-I am an experienced Software Engineer with a strong background in backend development across multiple industries,
-including finance and online marketplaces.
-Passionate about maintainable software development, open-source contributions, and continuous learning.
-Experienced in working with numerous programming languages, including Go, Ruby, JS, TS, PHP and C#.
+Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development.
+My skills encompass several programming languages, notably Go (6+ years), Ruby (7+ years),
+but also gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
 
-Proficient in building and maintaining microservices, applying SOLID principles, automated testing, and the 12-factor
-methodology. Experienced in designing efficient ETL data pipelines, managing databases, and designing APIs. Active
-mentor in the open-source community, and adept at implementing agile methodologies and DevOps.
+I've applied these competencies across various industries such as
+finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
+solutions to complex problems.
+An essential part of my career is being a dedicated open-source contributor and a lifelong learner.
+Please check out my GitHub profile for more about my work and contributions.
+
+I see myself as a Senior Software Engineer,
+and some may categories similar expectations as a Principal SE or Staff SE,
+I find that these titles can vary significantly in their interpretation across different companies.
+Therefore, I prefer not to place too much emphasis on them.
+
+This summary should give you a good overview of my experience and capabilities,
+and the rest of the document provides more detailed information if you're interested.
 
 ## Personal Projects (OSS)
 
@@ -25,24 +36,42 @@ mentor in the open-source community, and adept at implementing agile methodologi
 * [**testcase**: Toolkit for Go to support classicist TDD testing.](https://github.com/rack-app/rack-app)
 * [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
 
-- [**My last public presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture**](https://www.youtube.com/watch?v=n9F2j1cAYcc)
+- [**My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture**][:gopherconuk2022:]
 
 ## Key Skills
 
-* **Programming Proficiency**: Primary expertise in Go and Ruby, with proficiency also in JavaScript/TypeScript, C#, Java, and PHP.
+My skills encompass several programming languages, notably ,
+but also
+
+* **Programming Proficiency**:
+    * Primary expertise in Go (6+ years), Ruby (7+ years),
+    * gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
 * **API Integration**: Experience with a variety of API styles including RESTful, GraphQL, gRPC, SOAP, and some more.
-* **Data Management Expertise**: Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB, Redshift, GreenPlum, Google BigQuery, Redis, and Kafka.
+* **Data Management Expertise**: Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB,
+  Redshift, GreenPlum, Google BigQuery, Redis, and Kafka.
 * **DevOps Experience**:.
-  * Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and automation
-  * experiment with hosting on AWS, GCP, DigitalOcean, Heroku and on-premise.
-  * advocate of re-creatable deployment processes, and their tooling such as Terraform, Ansible, Docker, Helm, Jenkins, ArgoCD  
-* **Software Development Principles**: Knowledge and application of 12-factor methodology, SOLID principles, Hexagonal architecture, and Clean Architecture.
+    * Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and
+      automation
+    * experiment with hosting on AWS, GCP, DigitalOcean, Heroku and on-premise.
+    * advocate of re-creatable deployment processes, and their tooling such as Terraform, Ansible, Docker, Helm,
+      Jenkins, ArgoCD
+* **Software Development Principles**: Knowledge and application of 12-factor methodology, SOLID principles, Hexagonal
+  architecture, and Clean Architecture.
 * **Project Management Methodologies**: Proficient in XP, Kanban, Scrum and other Agile Development techniques.
-* **Payment Systems Optimization**: Contributed significantly to enhancing payment systems and reducing costs via intelligent payment routing.
-* **Registration System Development**: Involved in the development of the company's acquiring registration system, which involved tasks such as registering to acquiring hosts and preparing terminals for payments.
+* **Mentorship and Knowledge Sharing**:
+    * comprehensive experience in fostering the growth of both team members
+      and independent individuals, nurturing their professional and personal advancement.
+    * Active contributor and share knowledge in the open-source community.
+    * Passionate about knowledge sharing, contributing to learning materials, and guiding aspiring developers.
+* **Payment Systems Development**: Contributed significantly to enhancing payment systems and reducing costs via
+  intelligent payment routing.
+* **Acquiring Registration System Development**: Involved in the development of the company's acquiring registration
+  system, which involved tasks such as registering to acquiring hosts and preparing terminals for payments.
 * **Marketing Automation Knowledge**: Experienced in using various marketing automation tools and strategies.
-* **Data Warehouse Management**: Experienced in designing, developing and maintaining a distributed database warehouse and its segmenting features.
-* **User Behaviour Tracking**: Possess a deep understanding of diverse user behavior tracking methods for efficient ad targeting and user impression collection.
+* **Data Warehouse Management**: Experienced in designing, developing and maintaining a distributed database warehouse
+  and its segmenting features.
+* **User Behaviour Tracking**: Possess a deep understanding of diverse user behavior tracking methods for efficient ad
+  targeting and user impression collection.
 
 ## Professional Experience
 
@@ -66,7 +95,7 @@ mentor in the open-source community, and adept at implementing agile methodologi
 
 - Key contributor to the design and building of scalable solutions for storing and analyzing big data.
 - Maintained Ruby and Golang client libraries, reducing integration time from a week to just minutes.
-- Significantly contributed to the creation of a tool that transforms raw data 
+- Significantly contributed to the creation of a tool that transforms raw data
   into valuable insights for strategic marketing and business growth.
 
 **Software Engineer | VeryCreatives Consultant | 2014 - 2016**

@@ -1,3 +1,5 @@
+[:gopherconuk2022:]: https://www.youtube.com/watch?v=n9F2j1cAYcc
+
 # Adam Luzsi | CV | the course of my life
 
 - +41766118318
@@ -5,14 +7,23 @@
 - [GitHub](https://github.com/adamluzsi/)
 - [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
 
-Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development. My skills encompass
-several programming languages, notably Go, Ruby, JavaScript, and C#. I've applied these competencies across various
-industries such as finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
-solutions to complex problems. An essential part of my career is being a dedicated open-source contributor and a
-lifelong learner. Please check out my GitHub profile for more about my work and contributions.
+Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development.
+My skills encompass several programming languages, notably Go (6+ years), Ruby (7+ years),
+but also gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
 
-This summary should give you a good overview of my experience and capabilities, and the rest of the document provides
-more detailed information if you're interested.
+I've applied these competencies across various industries such as
+finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
+solutions to complex problems.
+An essential part of my career is being a dedicated open-source contributor and a lifelong learner.
+Please check out my GitHub profile for more about my work and contributions.
+
+I see myself as a Senior Software Engineer,
+and some may categories similar expectations as a Principal SE or Staff SE,
+I find that these titles can vary significantly in their interpretation across different companies.
+Therefore, I prefer not to place too much emphasis on them.
+
+This summary should give you a good overview of my experience and capabilities,
+and the rest of the document provides more detailed information if you're interested.
 
 ## My current open-source software projects:
 
@@ -25,7 +36,7 @@ more detailed information if you're interested.
 
 - [Github profile](https://github.com/adamluzsi/)
 - [RubyGems profile](https://rubygems.org/profiles/adamluzsi)
-- [My last public presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture](https://www.youtube.com/watch?v=n9F2j1cAYcc)
+- [My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture][:gopherconuk2022:]
 
 ## Employment Timeline
 
@@ -64,27 +75,27 @@ where I learn, contribute, and actively support others, especially in testing, b
 
 In terms of **data management**, I have successfully handled an array of **databases**,
 including **PostgreSQL**, **MySQL**, **BoltDB**,
-**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**, 
+**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**,
 and I have expertise in designing efficient **ETL data pipelines**.
 
-My experience extends to **API design**, where I have worked with different stacks like 
+My experience extends to **API design**, where I have worked with different stacks like
 **RESTful**, **GraphQL**, **gRPC**, and **SOAP**.
 
-As part of my ongoing learning journey, I have actively **mentored** and guided junior and mid-level engineers,
-particularly
-within the open-source community. Sharing knowledge and supporting others has been a rewarding aspect of my career.
+As part of my ongoing learning journey, I gained comprehensive experience in fostering the growth of both team members
+and independent individuals, nurturing their professional and personal advancement through **mentoring**.
+Sharing knowledge and supporting others has been a rewarding aspect of my career.
 
 **DevOps** has been a crucial part of my professional journey, involving implementing, managing, and scaling
 applications.
 Through this experience, I have recognised the value of cross-functional workflows between teams. I have utilised tools
 such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensure prompt response and resolution.
 
-Adding to my DevOps skills, I have extensive experience hosting applications on different platforms, 
+Adding to my DevOps skills, I have extensive experience hosting applications on different platforms,
 including **AWS Amazon Web Services**, **Google Cloud Platform**, **DigitalOcean**, and **on-premise** environments.
 My proficiency extends to tools like **ArgoCD**, **Docker**, **Terraform**, and **Ansible**,
 bolstering my capabilities in orchestrating and automating deployment processes.
 
-My understanding of **agile methodologies** has been enriched 
+My understanding of **agile methodologies** has been enriched
 by active involvement in practices such as **Scrum**, **XP**, and **Agile Development**.
 Embracing these methodologies has enabled me to deliver high-quality software solutions collaboratively.
 
