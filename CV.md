@@ -74,8 +74,8 @@ environment
 where I learn, contribute, and actively support others, especially in testing, by sharing my knowledge and experiences.
 
 In terms of **data management**, I have successfully handled an array of **databases**,
-including **PostgreSQL**, **MySQL**, **BoltDB**,
-**Redshift**, **GreenPlum**, **Google BigQuery**, **Redis**, and **Kafka**,
+including **PostgreSQL**, **MySQL**, **BoltDB**, **MongoDB**,
+**Redshift**, **GreenPlum**, **Redis**, and **Kafka**,
 and I have expertise in designing efficient **ETL data pipelines**.
 
 My experience extends to **API design**, where I have worked with different stacks like
@@ -92,7 +92,7 @@ such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensur
 
 Adding to my DevOps skills, I have extensive experience hosting applications on different platforms,
 including **AWS Amazon Web Services**, **Google Cloud Platform**, **DigitalOcean**, and **on-premise** environments.
-My proficiency extends to tools like **ArgoCD**, **Docker**, **Terraform**, and **Ansible**,
+My proficiency extends to tools like **ArgoCD**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**,
 bolstering my capabilities in orchestrating and automating deployment processes.
 
 My understanding of **agile methodologies** has been enriched
