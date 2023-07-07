@@ -54,19 +54,18 @@ and the rest of the document provides more detailed information if you're intere
 ## Expertise
 
 In software development, I've had the privilege of working with a wide range of **programming languages**,
-such as **Ruby**,
-**Golang**, **C**, **Java**, **C#**, **JavaScript**, and **PHP**. These experiences have allowed me to navigate diverse
-environments, from
-**backend** to **client-side**, **web development**, and **microservices**, utilising various **frameworks**.
+such as **Golang** (since 2017), **Ruby** (since 2011), **C#**, **JavaScript**/**TypeScript**, **PHP** and **Java**. 
+These experiences have allowed me to navigate diverse environments, 
+from **backend** to **client-side**, **web development**, and **microservices**, utilising various **frameworks**.
 
 When designing software, I meet human needs and strive for simplicity amidst complexity. I am well-versed in applying
 **principles** like the **12-factor methodology**, **SOLID principles**, **Hexagonal architecture**, and **Clean
 Architecture** to empower
 developers and enhance maintainability while considering human cognitive constraints.
 
-**Automated testing** is a must for me. I firmly believe in practices like **Test-Driven Development (TDD)**. When I
-lacked the
-required tooling to achieve high-quality, modular, and easily maintainable automated tests, I invented it myself.
+**Automated testing** is a must for me. I firmly believe in practices like **Test-Driven Development (TDD)**. 
+When I lacked the required tooling to achieve high-quality, modular,
+and easily maintainable automated tests, I invented it myself.
 Whether working on professional projects or pursuing my ones, I always apply this level of thorough testing.
 
 Being part of the **open-source community**, I cherish the idea of mutual learning and collaboration. It's an
