@@ -47,8 +47,12 @@ but also
     * Primary expertise in Go (6+ years), Ruby (7+ years),
     * gained experience with C#, JavaScript/TypeScript, and a bit with Java and PHP.
 * **API Integration**: Experience with a variety of API styles including RESTful, GraphQL, gRPC, SOAP, and some more.
-* **Data Management Expertise**: Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB,
-  MongoDB, Redshift, GreenPlum, Redis, and Kafka.
+* **Data Management Expertise**: 
+    * Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB, MongoDB, Redshift, GreenPlum, Redis, and Kafka.
+    * PostgreSQL Specialist (2011 - Present):
+      Leveraged my knowledge of PostgreSQL for 12 years, gaining practical experience in database management and optimization. 
+      This included a substantial 3.5 years stint as a Data Warehouse Engineer, 
+      where I designed, implemented, and maintained a distributed database warehouse system using Greenplum, a variant of PostgreSQL.
 * **DevOps Experience**:.
     * Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and
       automation

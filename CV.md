@@ -73,9 +73,14 @@ environment
 where I learn, contribute, and actively support others, especially in testing, by sharing my knowledge and experiences.
 
 In terms of **data management**, I have successfully handled an array of **databases**,
-including **PostgreSQL**, **MySQL**, **BoltDB**, **MongoDB**,
+including **PostgreSQL** (since 2011), **MySQL**, **BoltDB**, **MongoDB**,
 **Redshift**, **GreenPlum**, **Redis**, and **Kafka**,
 and I have expertise in designing efficient **ETL data pipelines**.
+
+One of my go-to choices for databases has consistently been **PostgreSQL**. 
+I've been using it professionally since 2011,
+including 3.5 years as a data warehouse engineer 
+where I managed large datasets using **Greenplum**, a **PostgreSQL** variant.
 
 My experience extends to **API design**, where I have worked with different stacks like
 **RESTful**, **GraphQL**, **gRPC**, and **SOAP**.
