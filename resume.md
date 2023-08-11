@@ -11,71 +11,68 @@
 
 ## Summary
 
-Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development.
-My skills encompass several programming languages, notably Go (6+ years), Ruby (7+ years),
-but also gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
-
-I've applied these competencies across various industries such as
-finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
-solutions to complex problems.
-An essential part of my career is being a dedicated open-source contributor and a lifelong learner.
-Please check out my GitHub profile for more about my work and contributions.
-
-I see myself as a Senior Software Engineer,
-and some may categories similar expectations as a Principal SE or Staff SE,
-I find that these titles can vary significantly in their interpretation across different companies.
-Therefore, I prefer not to place too much emphasis on them.
-
-This summary should give you a good overview of my experience and capabilities,
-and the rest of the document provides more detailed information if you're interested.
+I'm Adam Luzsi, a Senior Software Engineer with extensive expertise in Go, Ruby, and other programming languages.
+My diverse career spans across industries such as finance, healthcare, and insurance, 
+where I've provided effective software solutions to complex problems. 
+An avid open-source contributor, I'm committed to maintainable development and continuous learning.
+Explore further for a detailed insight into my technical skills and professional achievements.
 
 ## Personal Projects (OSS)
 
-* [**frameless**: Anti-framework for system flexibility and maintainability.](https://github.com/adamluzsi/frameless)
-* [**rack-app**: Minimalist ruby web framework.](https://github.com/rack-app/rack-app)
-* [**testcase**: Toolkit for Go to support classicist TDD testing.](https://github.com/rack-app/rack-app)
+* [**frameless**: Anti-framework for helping to build architecture flexibility and improve system maintainability.](https://github.com/adamluzsi/frameless)
+* [**rack-app**: Minimalist ruby web framework to enable rapid API development with strong testing support.](https://github.com/rack-app/rack-app)
+* [**testcase**: Testing Tooling for Go to support various classicist TDD testing idioms.](https://github.com/rack-app/rack-app)
 * [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
 
 - [**My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture**][:gopherconuk2022:]
 
 ## Key Skills
 
-My skills encompass several programming languages, notably ,
-but also
+### Technical Skills
 
-* **Programming Proficiency**:
-    * Primary expertise in Go (6+ years), Ruby (7+ years),
-    * gained experience with C#, JavaScript/TypeScript, and a bit with Java and PHP.
-* **API Integration**: Experience with a variety of API styles including RESTful, GraphQL, gRPC, SOAP, and some more.
-* **Data Management Expertise**: 
-    * Familiarity with numerous data management systems such as PostgreSQL, MySQL, BoltDB, MongoDB, Redshift, GreenPlum, Redis, and Kafka.
-    * PostgreSQL Specialist (2011 - Present):
-      Leveraged my knowledge of PostgreSQL for 12 years, gaining practical experience in database management and optimization. 
-      This included a substantial 3.5 years stint as a Data Warehouse Engineer, 
-      where I designed, implemented, and maintained a distributed database warehouse system using Greenplum, a variant of PostgreSQL.
-* **DevOps Experience**:.
-    * Comfortable with on-call duties, proficient in tracing (e.g., with OpenTelemetry), metric collection, and
-      automation
-    * experiment with hosting on AWS, GCP, DigitalOcean, Heroku and on-premise.
-    * advocate of re-creatable deployment processes, and their tooling such as
-      Terraform, Ansible, Docker, Helm, Kubernetes, Jenkins, ArgoCD
-* **Software Development Principles**: Knowledge and application of 12-factor methodology, SOLID principles, Hexagonal
-  architecture, and Clean Architecture.
-* **Project Management Methodologies**: Proficient in XP, Kanban, Scrum and other Agile Development techniques.
+* **Programming Proficiency**: Go, Ruby, C#, JavaScript/TypeScript, Java, PHP
+* **API Integration**: Experience with RESTful, GraphQL, gRPC, SOAP, etc.
+* **Data Management Expertise**:
+    * Systems: PostgreSQL, MySQL, BoltDB, MongoDB, Redshift, GreenPlum, Redis, Kafka
+    * PostgreSQL Specialist: Expertise in database management and optimization, Data Warehouse Engineering with Greenplum
+* **DevOps Experience**:
+    * On-call duties, tracing (e.g., OpenTelemetry), metric collection, automation
+    * Hosting on AWS, GCP, DigitalOcean, Heroku, on-premise
+    * Tooling: Terraform, Ansible, Docker, Helm, Kubernetes, Jenkins, ArgoCD
+* **Software Development Principles**: 12-factor methodology, SOLID principles, Hexagonal architecture, Clean Architecture
+
+### Project and People Management Skills
+
+* **Project Management Methodologies**: XP, Kanban, Scrum, Agile Development techniques
 * **Mentorship and Knowledge Sharing**:
-    * comprehensive experience in fostering the growth of both team members
-      and independent individuals, nurturing their professional and personal advancement.
-    * Active contributor and share knowledge in the open-source community.
-    * Passionate about knowledge sharing, contributing to learning materials, and guiding aspiring developers.
-* **Payment Systems Development**: Contributed significantly to enhancing payment systems and reducing costs via
-  intelligent payment routing.
-* **Acquiring Registration System Development**: Developing the company's acquiring registration
-  system involved tasks such as registering to acquiring-hosts and preparing payment terminals.
-* **Marketing Automation Knowledge**: Experienced in using various marketing automation tools and strategies.
-* **Data Warehouse Management**: Experienced in designing, developing and maintaining a distributed database warehouse
-  and its segmenting features.
-* **User Behaviour Tracking**: Possess a deep understanding of diverse user behavior tracking methods for efficient ad
-  targeting and user impression collection.
+    * Team member growth
+    * Open-source community contributions
+    * Passion for knowledge sharing and guidance
+
+### Industry Knowledge
+
+* **Industry Experience**:
+  * Finance, Marketing, Second-hand Marketplace, Healthcare, Insurance
+* **Payment Systems Development**:
+  * Designed and implemented enhancements to existing payment systems
+  * optimized routing processes to reduce costs, utilizing intelligent algorithms
+* **Acquiring Registration System Development**:
+  * Responsible for the development and management of acquiring registration systems,
+    including registration to acquiring-hosts and preparation of payment terminals.
+* **Marketing Automation Knowledge**:
+  * Employed various marketing automation tools and strategies
+    to help marketing agents optimize campaigns reach targeted audiences, and increase engagement.
+* **Data Warehouse Management**:
+  * Extensive experience in designing, developing, and maintaining distributed database warehouses.
+  * experience with data segmentation, analysis, and reporting
+* **User Behaviour Tracking**:
+  * Specialized in leveraging diverse methods for tracking user behavior, facilitating efficient ad targeting
+    and collection of user impressions for strategic marketing efforts.
+
+### Key Focus Areas
+* **Maintainable Software Development**
+* **Open-Source Contribution**
+* **Continuous Learning**
 
 ## Professional Experience
 
@@ -127,11 +124,13 @@ but also
 
 ## Education
 
-* **Web Software Developer** (OKJ nmb 54 481 02): Developed skills in various programming languages, web development
-  frameworks, and database management systems.
-* **Client-Sided Software Developer** (OKJ nmb 54-481-02): Gained in-depth client-side programming knowledge.
-* **Apprenticeship & Mentorship**: Participated in an apprenticeship program followed by a mentorship, further
-  solidifying my software development skills.
+* **Web Software Developer** (OKJ nmb 54 481 02): 
+  * Developed skills in various programming languages, web development frameworks, and database management systems.
+* **Client-Sided Software Developer** (OKJ nmb 54-481-02):
+  * Gained in-depth client-side programming knowledge.
+* **Apprenticeship & Mentorship**: 
+  * Participated in an apprenticeship program followed by a mentorship,
+    to further solidifying my software development skills.
 
 ## Languages
 
