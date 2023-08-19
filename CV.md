@@ -1,6 +1,10 @@
 [:gopherconuk2022:]: https://www.youtube.com/watch?v=n9F2j1cAYcc
+[:frameless-url:]: https://github.com/adamluzsi/frameless
+[:rack-app-url:]: https://github.com/rack-app/rack-app
+[:testcase-url:]: https://github.com/rack-app/rack-app
+[:toggler-url:]: https://github.com/toggler-io/toggler
 
-# Adam Luzsi | Software Engineer | Resume
+# Adam Luzsi | Senior Software Engineer | Curriculum Vitae
 
 - Phone: +41766118318
 - Email: adamluzsi@gmail.com
@@ -19,16 +23,11 @@ Explore further for a detailed insight into my technical skills and professional
 
 ## Personal Projects (OSS)
 
-* [**frameless
-  **: Anti-framework for helping to build architecture flexibility and improve system maintainability.](https://github.com/adamluzsi/frameless)
-* [**rack-app
-  **: Minimalist ruby web framework to enable rapid API development with strong testing support.](https://github.com/rack-app/rack-app)
-* [**testcase
-  **: Testing Tooling for Go to support various classicist TDD testing idioms.](https://github.com/rack-app/rack-app)
-* [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
-
-- [**My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture
-  **][:gopherconuk2022:]
+* [**frameless**: Anti-framework for helping to build apps with architecture flexibility.][:frameless-url:]
+* [**rack-app**: Minimalist ruby web framework to enable rapid API development.][:rack-app-url:]
+* [**testcase**: Testing Tooling for Go to support various classicist TDD testing idioms.][:testcase-url:]
+* [**toggler**: Self-hosted feature flag and a release management service.][:toggler-url:]
+- [**My presentation from UK GopherConf why often Microservices Architecture is misunderstood**][:gopherconuk2022:]
 
 ## Key Skills
 

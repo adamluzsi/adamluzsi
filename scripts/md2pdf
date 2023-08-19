@@ -2,20 +2,35 @@
 set -eE -o pipefail
 
 (
-	type pandoc
-	type basename
+  type pandoc
+  type basename
+  type mktemp
+  type cat
 ) 1>/dev/null
 
-declare mdpath out
+declare input mdpath out headerPath tmpDir
+
+tmpDir=$(mktemp -d)
+[[ -d ${tmpDir} ]]
+trap "rm -r '${tmpDir}'" EXIT
+
+headerPath="$(dirname "${0}")/md2pdf.d/header.yml"
+[[ -f ${headerPath} ]]
 
 mdpath=${1:?"missing path to markdown file"}
 [[ -f ${mdpath} ]]
 
 out=${2:-"${WDP:-"."}/out/$(basename "${mdpath}" ".md")${2:-""}.pdf"}
 if [[ ! ${out} =~ \.pdf$ ]]; then
-	out="${out}.pdf"
+  out="${out}.pdf"
 fi
+
+input="${tmpDir}/$(basename "${mdpath}")"
+
+cat "${headerPath}" >"${input}"
+echo >>"${input}"
+cat "${mdpath}" >>"${input}"
 
 echo "input: ${mdpath}"
 echo "output: ${out}"
-pandoc --from=gfm --to=pdf -o "${out}" "${mdpath}"
+pandoc --from=gfm --to=pdf -o "${out}" "${input}"
