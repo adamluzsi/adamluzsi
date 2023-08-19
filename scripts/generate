@@ -3,4 +3,3 @@ set -eE
 
 cd "${WDP}"
 ./scripts/md2pdf ./CV.md ./docs/adamluzsi-cv.pdf
-./scripts/md2pdf ./resume.md ./docs/adamluzsi-resume.pdf

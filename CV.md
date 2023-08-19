@@ -1,44 +1,94 @@
 [:gopherconuk2022:]: https://www.youtube.com/watch?v=n9F2j1cAYcc
 
-# Adam Luzsi | CV | the course of my life
+# Adam Luzsi | Software Engineer | Resume
 
-- +41766118318
-- adamluzsi@gmail.com
+- Phone: +41766118318
+- Email: adamluzsi@gmail.com
 - [GitHub](https://github.com/adamluzsi/)
+- [RubyGems](https://rubygems.org/profiles/adamluzsi)
 - [LinkedIn](https://www.linkedin.com/in/adam-luzsi-6233068b/)
+- [Link to my CV / Portfolio](https://github.com/adamluzsi/adamluzsi/blob/main/CV.md)
 
-Hello! I'm Adam Luzsi, an IT professional with a keen interest in maintainable software development.
-My skills encompass several programming languages, notably Go (6+ years), Ruby (7+ years),
-but also gained experienced with C#, JavaScript/TypeScript, and a bit with Java and PHP.
+## Summary
 
-I've applied these competencies across various industries such as
-finance, marketing, second-hand marketplace, healthcare, and insurance, bringing effective software
-solutions to complex problems.
-An essential part of my career is being a dedicated open-source contributor and a lifelong learner.
-Please check out my GitHub profile for more about my work and contributions.
+I'm Adam Luzsi, a Senior Software Engineer with extensive expertise in Go, Ruby, and other programming languages.
+My diverse career spans across industries such as finance, healthcare, and insurance,
+where I've provided effective software solutions to complex problems.
+An avid open-source contributor, I'm committed to maintainable development and continuous learning.
+Explore further for a detailed insight into my technical skills and professional achievements.
 
-I see myself as a Senior Software Engineer,
-and some may categories similar expectations as a Principal SE or Staff SE,
-I find that these titles can vary significantly in their interpretation across different companies.
-Therefore, I prefer not to place too much emphasis on them.
+## Personal Projects (OSS)
 
-This summary should give you a good overview of my experience and capabilities,
-and the rest of the document provides more detailed information if you're interested.
+* [**frameless
+  **: Anti-framework for helping to build architecture flexibility and improve system maintainability.](https://github.com/adamluzsi/frameless)
+* [**rack-app
+  **: Minimalist ruby web framework to enable rapid API development with strong testing support.](https://github.com/rack-app/rack-app)
+* [**testcase
+  **: Testing Tooling for Go to support various classicist TDD testing idioms.](https://github.com/rack-app/rack-app)
+* [**toggler**: Self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
 
-## My current open-source software projects:
+- [**My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture
+  **][:gopherconuk2022:]
 
-- [frameless | anti-framework for system flexibility and maintainability](https://github.com/adamluzsi/frameless)
-- [rack-app | a minimalist ruby web framework](https://github.com/rack-app/rack-app)
-- [testcase | test-driven designing a toolkit for Go to support classicist TDD testing](https://github.com/adamluzsi/testcase)
-- [toggler | a self-hosted feature flag and a release management service.](https://github.com/toggler-io/toggler)
+## Key Skills
 
-## Reference links:
+### Technical Skills
 
-- [Github profile](https://github.com/adamluzsi/)
-- [RubyGems profile](https://rubygems.org/profiles/adamluzsi)
-- [My presentation from UK GopherConf about the misunderstood HR tool: Microservices Architecture][:gopherconuk2022:]
+* **Programming Proficiency**: Go, Ruby, C#, JavaScript/TypeScript, Java, PHP
+* **API Integration**: Experience with RESTful, GraphQL, gRPC, SOAP, etc.
+* **Data Management Expertise**:
+    * Systems: PostgreSQL, MySQL, BoltDB, MongoDB, Redshift, GreenPlum, Redis, Kafka
+    * PostgreSQL Specialist: Expertise in database management and optimization, Data Warehouse Engineering with
+      Greenplum
+* **DevOps Experience**:
+    * On-call duties, tracing (e.g., OpenTelemetry), metric collection, automation
+    * Hosting on AWS, GCP, DigitalOcean, Heroku, on-premise
+    * Tooling: Terraform, Docker, Helm, Kubernetes, Jenkins, ArgoCD
+* **Software Development Principles**: 12-factor methodology, SOLID principles, Hexagonal architecture, Clean
+  Architecture
 
-## Employment Timeline
+#### Learn In Progress
+
+* **Kubernetes**:
+    * I currently invested in learning Certified Kubernetes Administrator (CKA)
+
+### Project and People Management Skills
+
+* **Project Management Methodologies**: XP, Kanban, Scrum, Agile Development techniques
+* **Mentorship and Knowledge Sharing**:
+    * Team member growth
+    * Open-source community contributions
+    * Passion for knowledge sharing and guidance
+
+### Industry Knowledge
+
+* **Industry Experience**:
+    * Finance, Marketing, Second-hand Marketplace, Healthcare, Insurance
+* **Payment Systems Development**:
+    * Designed and implemented enhancements to existing payment systems
+    * optimized routing processes to reduce costs, utilizing intelligent algorithms
+* **Acquiring Registration System Development**:
+    * Responsible for the development and management of acquiring registration systems,
+      including registration to acquiring-hosts and preparation of payment terminals.
+* **Marketing Automation Knowledge**:
+    * Employed various marketing automation tools and strategies
+      to help marketing agents optimize campaigns reach targeted audiences, and increase engagement.
+* **Data Warehouse Management**:
+    * Extensive experience in designing, developing, and maintaining distributed database warehouses.
+    * experience with data segmentation, analysis, and reporting
+* **User Behaviour Tracking**:
+    * Specialized in leveraging diverse methods for tracking user behavior, facilitating efficient ad targeting
+      and collection of user impressions for strategic marketing efforts.
+
+### Key Focus Areas
+
+* **Maintainable Software Development**
+* **Open-Source Contribution**
+* **Continuous Learning**
+
+## Professional Experience
+
+### Timeline
 
 | Year Range     | Position                    | Company                                      |
 |----------------|-----------------------------|----------------------------------------------|
@@ -51,101 +101,7 @@ and the rest of the document provides more detailed information if you're intere
 | 2019 - 2022    | Senior Software Engineer    | Tutti / Tamedia / Swiss Marketplace Group    |
 | 2022 - 2023    | Senior Software Engineer    | Teya / SaltPay                               |
 
-## Expertise
-
-In software development, I've had the privilege of working with a wide range of **programming languages**,
-such as **Golang** (since 2017), **Ruby** (since 2011), **C#**, **JavaScript**/**TypeScript**, **PHP** and **Java**. 
-These experiences have allowed me to navigate diverse environments, 
-from **backend** to **client-side**, **web development**, and **microservices**, utilising various **frameworks**.
-
-When designing software, I meet human needs and strive for simplicity amidst complexity. I am well-versed in applying
-**principles** like the **12-factor methodology**, **SOLID principles**, **Hexagonal architecture**, and **Clean
-Architecture** to empower
-developers and enhance maintainability while considering human cognitive constraints.
-
-**Automated testing** is a must for me. I firmly believe in practices like **Test-Driven Development (TDD)**. 
-When I lacked the required tooling to achieve high-quality, modular,
-and easily maintainable automated tests, I invented it myself.
-Whether working on professional projects or pursuing my ones, I always apply this level of thorough testing.
-
-Being part of the **open-source community**, I cherish the idea of mutual learning and collaboration. It's an
-environment
-where I learn, contribute, and actively support others, especially in testing, by sharing my knowledge and experiences.
-
-In terms of **data management**, I have successfully handled an array of **databases**,
-including **PostgreSQL** (since 2011), **MySQL**, **BoltDB**, **MongoDB**,
-**Redshift**, **GreenPlum**, **Redis**, and **Kafka**,
-and I have expertise in designing efficient **ETL data pipelines**.
-
-One of my go-to choices for databases has consistently been **PostgreSQL**. 
-I've been using it professionally since 2011,
-including 3.5 years as a data warehouse engineer 
-where I managed large datasets using **Greenplum**, a **PostgreSQL** variant.
-
-My experience extends to **API design**, where I have worked with different stacks like
-**RESTful**, **GraphQL**, **gRPC**, and **SOAP**.
-
-As part of my ongoing learning journey, I gained comprehensive experience in fostering the growth of both team members
-and independent individuals, nurturing their professional and personal advancement through **mentoring**.
-Sharing knowledge and supporting others has been a rewarding aspect of my career.
-
-**DevOps** has been a crucial part of my professional journey, involving implementing, managing, and scaling
-applications.
-Through this experience, I have recognised the value of cross-functional workflows between teams. I have utilised tools
-such as **OpsGenie**, **PagerDuty**, and **Pingdom** for on-call duties to ensure prompt response and resolution.
-
-Adding to my DevOps skills, I have extensive experience hosting applications on different platforms,
-including **AWS Amazon Web Services**, **Google Cloud Platform**, **DigitalOcean**, and **on-premise** environments.
-My proficiency extends to tools like **ArgoCD**, **Docker**, **Kubernetes**, **Terraform**, and **Ansible**,
-bolstering my capabilities in orchestrating and automating deployment processes.
-
-My understanding of **agile methodologies** has been enriched
-by active involvement in practices such as **Scrum**, **XP**, and **Agile Development**.
-Embracing these methodologies has enabled me to deliver high-quality software solutions collaboratively.
-
-**Security** is an aspect of IT that I deeply respect, and I have proactively sought to enhance my application designs
-through a foundational understanding of **ethical hacking**. My knowledge in this area stems from online courses and
-mentorship from a **Security Expert** when I worked at **Emarsys Technologies**.
-
-### Domain knowledge
-
-I have also had the opportunity to showcase my leadership capabilities by leading a small team for several projects,
-further honing my organisational and communication skills.
-
-My professional journey has led me to work in diverse industries:
-
-- In the financial sector, I gained valuable insights into payment systems, acquiring hosts, and financial regulations
-  during my tenure at Teya (SaltPay).
-- I leveraged technology to streamline tasks and automate marketing workflows within the marketing industry, providing
-  customers with valuable insights into their revenue streams while working at Emarsys.
-- Additionally, I delved into data warehousing and ETL processes as a member of their Historical Data Service team.
-- During my time at People Process Technology, I had the valuable opportunity to acquire knowledge and skills in working
-  with workflow engines and addressing technical requirements associated with healthcare data.
-- At Tutti.ch, I contributed to enhancing a thriving second-hand marketplace, optimising user experience and
-  streamlining transactions.
-- At CFB Kft, I learned about the complex policy systems of the insurance sector and participated in the design of
-  compliant insurance software solutions.
-
-I am grateful for the diverse and comprehensive knowledge I have gained throughout my career. I am enthusiastic about
-utilising this experience to create effective software solutions across various industries.
-
-## Education & Professional Development
-
-- Web Software Developer (OKJ nmb 54 481 02): Completed an intensive course on developing web-based software
-  solutions—acquired skills in various programming languages, web development frameworks, and database management
-  systems.
-- Client-Sided Software Developer (OKJ nmb 54-481-02): Gained in-depth client-side programming knowledge.
-- Apprenticeship & Mentorship: Participated in an apprenticeship program followed by a mentorship, further solidifying
-  my software development skills. Gained practical, hands-on experience and received personalised guidance from
-  experienced professionals in the field.
-
-## Language Proficiency
-
-- English: Proficient in English, both written and spoken. Regularly utilise English professionally, demonstrating
-  effective communication in cross-cultural teams and with international clients.
-- Hungarian: Fluent in Hungarian - Native speaker.
-
-## Portfolio
+### Portfolio
 
 This list contains a few projects from my experience:
 
@@ -263,3 +219,40 @@ My role was to fix the legacy integration solution that lacked tests and any for
 was changing its approach to advertisements, so the tracking integrations had to be revisited to give more power to the
 Marketing Agents. The final outcome allowed easy maintenance and the field agents could use advanced targeting to find
 the right customers for better lead generation.
+
+### VeryCreatives - 3rd party data collecting integrations with ETL 
+
+I had the opportunity to work on a project involving the development of an API for 3rd party integrations.
+The focus of the API was on importing and processing substantial data volumes.
+As part of the solution, I designed a modular ETL pipeline,
+that can handle different extraction and transformations, to load the data into a unified data source.
+
+### VeryCreatives - Coaching Agile Practices (XP) and teaching about TDD 
+
+I guided their teams on Extreme Programming (XP) and introduced some of the Test-Driven Development (TDD) techniques.
+My expertise helped enhance their software development process, emphasizing quality and customer-centric solutions.
+
+### CFB Kft - Insurance Agent Knowledge base helper
+
+I contributed to the design of compliant insurance software,
+deepening my grasp on the intricate policy systems within the insurance industry.
+
+### CFB Kft - Server and IT Equipment management 
+
+As part of my role at CFB, I managed the company's on-premise servers
+and also maintained the company's laptop and desktop equipment.  
+
+## Education
+
+* **Web Software Developer** (OKJ nmb 54 481 02):
+    * Developed skills in various programming languages, web development frameworks, and database management systems.
+* **Client-Sided Software Developer** (OKJ nmb 54-481-02):
+    * Gained in-depth client-side programming knowledge.
+* **Apprenticeship & Mentorship**:
+    * Participated in an apprenticeship program followed by a mentorship,
+      to further solidifying my software development skills.
+
+## Languages
+
+* English: Proficient
+* Hungarian: Native speaker
