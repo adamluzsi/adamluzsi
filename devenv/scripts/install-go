@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -eE
+
+(
+  type wget
+  type mktemp
+) 1>/dev/null
+
+export TMPDIR=$(mktemp -d)
+export OSARCH=$(uname -m | sed 's/x86_64/amd64/;s/aarch64/arm64/')
+: ${GO_DIST_DIR:="/opt/go"}
+
+
+function main() {
+  local version=${1:?required}
+  local dlPath="${TMPDIR}/go${version}.tar.gz"
+  mkdir -p "${GO_DIST_DIR}"
+  wget -q "https://go.dev/dl/go${version}.linux-${OSARCH}.tar.gz" -O "$dlPath"
+  tar -C "${GO_DIST_DIR}/${version}" -xz -f "${dlPath}"
+  rm "${dlPath}"
+}
+
+main "${@}"

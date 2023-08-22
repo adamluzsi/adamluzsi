@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -eE 
+
+docker build -t "adamluzsi/devenv:latest" .
