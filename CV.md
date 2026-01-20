@@ -21,13 +21,14 @@ where I've provided effective software solutions to complex problems.
 An avid open-source contributor, I'm committed to maintainable development and continuous learning.
 Explore further for a detailed insight into my technical skills and professional achievements.
 
-## Personal Projects (OSS)
+## Personal Projects
 
 * [**frameless**: Anti-framework for helping to build apps with architecture flexibility.][:frameless-url:]
 * [**rack-app**: Minimalist ruby web framework to enable rapid API development.][:rack-app-url:]
 * [**testcase**: Testing Tooling for Go to support various classicist TDD testing idioms.][:testcase-url:]
 * [**toggler**: Self-hosted feature flag and a release management service.][:toggler-url:]
 - [**My presentation from UK GopherConf why often Microservices Architecture is misunderstood**][:gopherconuk2022:]
+  [![GohperConUK2022](https://img.youtube.com/vi/n9F2j1cAYcc/0.jpg)][:gopherconuk2022:]
 
 ## Key Skills
 
@@ -90,7 +91,7 @@ Explore further for a detailed insight into my technical skills and professional
 ### Timeline
 
 | Year Range     | Position                    | Company                                      |
-|----------------|-----------------------------|----------------------------------------------|
+| -------------- | --------------------------- | -------------------------------------------- |
 | 2009 - 2011    | Software Development Intern | CFB Kft                                      |
 | 2011 - present | Open-Source Contributor     | [GitHub Link](https://github.com/adamluzsi/) |
 | 2011 - 2014    | Software Engineer           | People Process Technologies                  |
@@ -99,6 +100,7 @@ Explore further for a detailed insight into my technical skills and professional
 | 2018 - 2019    | Senior Software Engineer    | Cembra Money Bank                            |
 | 2019 - 2022    | Senior Software Engineer    | Tutti / Tamedia / Swiss Marketplace Group    |
 | 2022 - 2023    | Senior Software Engineer    | Teya / SaltPay                               |
+| 2023 - present | Senior Software Engineer    | Swisscom AG.                                 |
 
 ### Portfolio
 
@@ -134,6 +136,21 @@ knowledge and involved practicing heavy refactoring, which was facilitated by co
 developed received recognition from my peers at the current company and was successfully deployed in real-life
 applications. Within the company, the project served as a demonstration of the Rack project and was utilized for the
 rapid development of small HTTP web microservices.
+
+### Swisscom AG. - Automated Key Rotation for 5G DMC Core CNFs
+
+Developing tooling to automate the rotation of cryptographic keys and credentials across 5G Distributed Mobile Core (DMC) Cloud-Native Functions (CNFs), ensuring compliance with security best practices and zero-trust principles.
+The solution integrates with existing infrastructure orchestration and secrets management systems to enable secure, auditable, and scheduled key lifecycle operations—minimizing operational risk and downtime during rotations.  
+It also automate the key deployment process for NF version updates, and as such, significantly reduces toil for platform teams.
+
+### Swisscom AG. - REP Execution Tracking Tool
+
+Designed and implemented a Go-based backend system from the ground up to provide teams with actionable visibility into the status of their DevOps-oriented Reliability Enhancement Procedures (REPs).
+Leveraging Clean Architecture to ensure maintainability and testability.
+The service integrates seamlessly with existing project management tools (e.g., Jira, Confluence) via adapters and automated.
+Through the tool, the teams are able to monitor the REP compliance, identify gaps, and prioritize remediation without adopting new workflows.
+The solution reduced manual reporting overhead,
+and increased focus to incorporate continous improvements to aim towards production excelence.
 
 ### Emarsys - Historical Data Service
 
@@ -182,6 +199,10 @@ practicality and effectiveness of the virtual currency mechanism
 
 , significantly streamlining the process of requesting and managing benefits. This not only improved operational
 efficiency but also enhanced the experience for the government employees.
+
+### People Process Technology - Identification Data Provider
+
+Designed and implemented a centralized, OAuth 2.0-based identity and authorization service to enable secure, role-driven access delegation from end users to internal microservices (and larger bounded contexts). The system empowered users to grant granular, time-bound permissions for specific roles (e.g., "event_scheduling", "health_data_view", etc) to downstream services, facilitating service-to-service workflows without requiring direct credential sharing. Implemented token issuance and validation, enforced consent flows via a self-service portal. The solution reduced authentication sprawl across services, enabled credential rotation, and became the backbone for all new internal microservice integrations and their service-to-service communication auth process.
 
 ### People Process Technology - Project Healthcare Tourism
 
